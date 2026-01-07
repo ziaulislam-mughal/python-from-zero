@@ -71,24 +71,25 @@ To build a strong Python foundation that will support:
 ---
 
 ## 📂 Repository Structure (Example)
-├──Basic/ <br>
-├  ├──1_basic.ipynb<br>
-├  ├──2_operators.ipynb<br>
-├  ├──3_input_output_function.ipynb<br>
-├──Control Flow/<br>
-├  ├──4_conditions.ipynb<br>
-├  ├──5_loop.ipynb<br>
-├──Data Structure/<br>
-│  ├──6_list.ipynb<br>
-│  ├──7_tuple.ipynb<br>
-│  ├──8_set.ipynb<br>
-│  └──9_dictionary.ipynb<br>
-├──Functions/<br>
-├──└──11_Function.ipynb<br>
-├──File Handlin/<br>
-├──├──12_file_handling.ipynb
-├──└──foo.txt<br>
-└── README.md<br>
+├── Basic/
+│   ├── 1_basic.ipynb
+│   ├── 2_operators.ipynb
+│   ├── 3_input_output_function.ipynb
+├── Control Flow/
+│   ├── 4_conditions.ipynb
+│   ├── 5_loop.ipynb
+├── Data Structure/
+│   ├── 6_list.ipynb
+│   ├── 7_tuple.ipynb
+│   ├── 8_set.ipynb
+│   └── 9_dictionary.ipynb
+├── Functions/
+│   └── 11_Function.ipynb
+├── File Handlin/
+│   ├── 12_file_handling.ipynb
+│   └── foo.txt
+└── README.md
+
 
 
 
