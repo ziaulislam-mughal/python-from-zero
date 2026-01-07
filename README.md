@@ -1,12 +1,24 @@
 # Python Programming Journey 🐍
+---
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-This repository contains my Python learning journey from **basic concepts to file handling**.  
-The purpose of this repo is to build **strong fundamentals**, not just write working code.
+---
+
+> This repository contains my Python learning journey from **basic concepts to file handling**.  
+> The purpose of this repo is to build **strong fundamentals**, not just write working code.
 
 I am learning Python step by step with a focus on **logic building**, **clean code**, and **real-world relevance**, especially for **AI and Data-related fields**.
 
 ---
+## ⚙️ Installation & Usage
 
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/ziaulislam-mughal/python-from-zero.git
+
+---
 ## 📌 Topics Covered So Far
 
 ### 1. Python Basics
