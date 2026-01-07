@@ -130,6 +130,6 @@ If you are also learning Python from scratch, feel free to explore and learn alo
 
 ---
 
-**Author:** Zia Ul Islam Mughal
+**Author:** Zia Ul Islam Mughal <br>
 **Field:** Artificial Intelligence <br>
 **LinkedIn** : https://www.linkedin.com/in/ziaulislammughal/
