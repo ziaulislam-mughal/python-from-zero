@@ -6,7 +6,7 @@
 
 ---
 
-> This repository contains my Python learning journey from **basic concepts to file handling**.  
+> This repository contains my Python learning journey from **basic concepts to Object Orientation Programming**.  
 > The purpose of this repo is to build **strong fundamentals**, not just write working code.
 
 I am learning Python step by step with a focus on **logic building**, **clean code**, and **real-world relevance**, especially for **AI and Data-related fields**.
@@ -44,11 +44,25 @@ Each data structure is practiced with **syntax, examples, and use cases**.
 - Function parameters and return values
 - Reusability of code
 
-### 5. File Handling ✅
+### 5. File Handling 
 - Reading files
 - Writing files
 - Appending data
 - Working with text files using Python
+
+### 6. Object-Oriented Programming (OOP)
+
+- Classes and objects
+- Constructors (__init__)
+- Instance and class variables
+- Methods
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- Dunder (magic) methods
+
+
 
 ---
 
@@ -106,6 +120,10 @@ To build a strong Python foundation that will support:
 - 📄 12_file_handling.ipynb
 - 📄 foo.txt
 
+📁 **Object Orientation Programming/**
+-  📄 13_classes.ipynb
+
+
 📄 README.md
 
 
@@ -125,9 +143,11 @@ To build a strong Python foundation that will support:
 │   └── 9_dictionary.ipynb<br>
 ├── Functions/<br>
 │   └── 11_Function.ipynb<br>
-├── File Handlin/<br>
+├── File Handling/<br>
 │   ├── 12_file_handling.ipynb<br>
 │   └── foo.txt<br>
+├─── Object Orientation Programming/<br> 
+│    └──13_classes.ipynb<br>
 └── README.md<br>
 
 
